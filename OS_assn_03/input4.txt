@@ -1,0 +1,7 @@
+Name,Age,City,Score
+Havi,20,Mumbai,85
+Rushda,21,Delhi,72
+Dhruv,22,Bengaluru,95
+Shreyash,28,Chennai,68
+Ayush,5,Hyderabad,78
+Devanshu,26,Itawa,89
